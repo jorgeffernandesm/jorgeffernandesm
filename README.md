@@ -6,7 +6,7 @@ Full Stack Developer
 
 **<h3 align="left">🚀 Enthusiastic full-stack web developer with a strong passion for technology. Proficient in both front-end and back-end development.</h3>**
 
-## Connect or discover more about me::
+## Connect, discover more about me or donate:
 
 <p align="left"><a href="https://github.com/jorgeffernandesm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/jfmoura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a>
 </p>
@@ -37,3 +37,11 @@ Full Stack Developer
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="32" alt="GitHub" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white" height="32" alt="Raspberry Pi" style="margin-right: 4px">
 </div>
+
+
+</br>
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=Q6ZB8NDZXTDTS)
+<a href="https://www.paypal.com/donate/?hosted_button_id=Q6ZB8NDZXTDTS" target="_blank">
+  <img src="https://www.paypalobjects.com/webstatic/icon/pp258.png" height="20" alt="Donate with PayPal">
+</a>
